@@ -15,3 +15,5 @@ Linguagem: Análise de sentimento, detecção de idioma e extração de frases-c
 
 Serviço Azure OpenAI: Discute a plataforma do Azure que oferece modelos como GPT-4, GPT-3.5 e DALL-E, e a importância da engenharia de prompts e do uso responsável desses modelos.
 
+[Aqui está o arquivo compilado das aulas!](https://github.com/JuTorres23/2-desafio-Dio/blob/main/M%C3%B3dulo%201%20-%20IA%20Overview.pdf)
+
